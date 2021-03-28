@@ -1,0 +1,69 @@
+#paneTop {
+    -fx-background-color: #4d5463;
+}
+
+#lblTop {
+    -fx-text-fill: white;
+    -fx-font-size: 25;
+    -fx-font-family: Consolas;
+}
+
+#sidebar {
+    -fx-background-color: rgb(21, 25, 29);
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-opacity: 0.9;
+}
+
+.button:hover {
+    -fx-opacity: 1;
+}
+
+#btnAddUser {
+    -fx-background-color: #0b824e;
+}
+
+#btnRemoveUser {
+    -fx-background-color: red;
+}
+
+#filterHBox {
+    -fx-background-color: #21272D;
+}
+
+#mainBackground {
+    -fx-background-color: #21272D;
+}
+
+#btnSearch {
+    -fx-background-color: rgb(54, 119, 171);
+}
+
+#btnShowAll {
+    -fx-background-color: rgb(54, 119, 171);
+}
+
+.text-field {
+    -fx-background-color: #303030;
+    -fx-text-fill: #BBBBBB;
+    -fx-prompt-text-fill: #666666;
+}
+
+.choice-box {
+    -fx-background-color: #303030;
+}
+
+.choice-box .label {
+    -fx-text-fill: #bbbbbb;
+}
+
+.date-picker {
+    -fx-background-color: #252629;
+}
+
+.arrow-button {
+    -fx-background-color: #252629;
+}
+
